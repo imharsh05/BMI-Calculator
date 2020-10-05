@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BMI Calc
 //
-//  Created by Harsh Patel on 05/10/20.
+
 //  Copyright © 2020 Harsh Patel. All rights reserved.
 //
 
